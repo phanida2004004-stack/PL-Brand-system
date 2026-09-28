@@ -1,0 +1,536 @@
+[
+  {
+    "sapNo": "4000001",
+    "sapPo": "1001",
+    "bomFound": true,
+    "bomId": "4000001-1",
+    "brand": "Brand A",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:42:42.998Z"
+  },
+  {
+    "sapNo": "4000002",
+    "sapPo": "1001",
+    "bomFound": true,
+    "bomId": "4000002-1",
+    "brand": "Brand A",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:42:43.004Z"
+  },
+  {
+    "sapNo": "4000003",
+    "sapPo": "1010",
+    "bomFound": true,
+    "bomId": "4000003-1",
+    "brand": "Brand B",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE"
+    ],
+    "lastChecked": "2026-09-28T14:42:43.008Z"
+  },
+  {
+    "sapNo": "4000004",
+    "sapPo": "1010",
+    "bomFound": true,
+    "bomId": "4000004-1",
+    "brand": "Brand B",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE"
+    ],
+    "lastChecked": "2026-09-28T14:42:43.073Z"
+  },
+  {
+    "sapNo": "4000010",
+    "sapPo": "1010",
+    "bomFound": false,
+    "bomId": "",
+    "brand": "",
+    "brandSource": "",
+    "productionModels": [],
+    "lastChecked": "2026-09-28T14:42:43.094Z"
+  },
+  {
+    "sapNo": "4000011",
+    "sapPo": "1111",
+    "bomFound": true,
+    "bomId": "4000011-1",
+    "brand": "Brand C",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:42:43.097Z"
+  },
+  {
+    "sapNo": "4000012",
+    "sapPo": "1000",
+    "bomFound": true,
+    "bomId": "4000012-1",
+    "brand": "Brand D",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE"
+    ],
+    "lastChecked": "2026-09-28T14:42:43.105Z"
+  },
+  {
+    "sapNo": "4000013",
+    "sapPo": "1000",
+    "bomFound": true,
+    "bomId": "4000013-1",
+    "brand": "Brand D",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:42:43.114Z"
+  },
+  {
+    "sapNo": "4000014",
+    "sapPo": "1000",
+    "bomFound": true,
+    "bomId": "4000014-1",
+    "brand": "Brand D",
+    "brandSource": "SAP_PO_FALLBACK",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:42:43.122Z"
+  },
+  {
+    "sapNo": "4000015",
+    "sapPo": "1211",
+    "bomFound": true,
+    "bomId": "4000015-1",
+    "brand": "Brand E",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:42:43.127Z"
+  },
+  {
+    "sapNo": "4000016",
+    "sapPo": "1212",
+    "bomFound": true,
+    "bomId": "4000016-1",
+    "brand": "Brand F",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:42:43.133Z"
+  },
+  {
+    "sapNo": "4000017",
+    "sapPo": "1212",
+    "bomFound": true,
+    "bomId": "4000017-1",
+    "brand": "Brand F",
+    "brandSource": "SAP_PO_FALLBACK",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:42:43.153Z"
+  },
+  {
+    "sapNo": "4000018",
+    "sapPo": "1213",
+    "bomFound": true,
+    "bomId": "4000018-1",
+    "brand": "Brand G",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:42:43.157Z"
+  },
+  {
+    "sapNo": "4000019",
+    "sapPo": "1214",
+    "bomFound": true,
+    "bomId": "4000019-1",
+    "brand": "Brand H",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:42:43.161Z"
+  },
+  {
+    "sapNo": "4000020",
+    "sapPo": "1215",
+    "bomFound": false,
+    "bomId": "",
+    "brand": "",
+    "brandSource": "",
+    "productionModels": [],
+    "lastChecked": "2026-09-28T14:42:43.167Z"
+  },
+  {
+    "sapNo": "4000021",
+    "sapPo": "2216",
+    "bomFound": true,
+    "bomId": "4000021-1",
+    "brand": "Brand I",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:46:01.808Z"
+  },
+  {
+    "sapNo": "4000022",
+    "sapPo": "2217",
+    "bomFound": true,
+    "bomId": "4000022-1",
+    "brand": "Brand J",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:46:01.813Z"
+  },
+  {
+    "sapNo": "4000023",
+    "sapPo": "2218",
+    "bomFound": true,
+    "bomId": "4000023-1",
+    "brand": "Brand K",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:46:01.817Z"
+  },
+  {
+    "sapNo": "4000024",
+    "sapPo": "2219",
+    "bomFound": true,
+    "bomId": "4000024-1",
+    "brand": "Brand L",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:46:01.820Z"
+  },
+  {
+    "sapNo": "4000025",
+    "sapPo": "2220",
+    "bomFound": true,
+    "bomId": "4000025-1",
+    "brand": "Brand M",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:46:01.824Z"
+  },
+  {
+    "sapNo": "4213003",
+    "sapPo": "202608270000",
+    "bomFound": false,
+    "bomId": "",
+    "brand": "",
+    "brandSource": "",
+    "productionModels": [],
+    "lastChecked": "2026-09-28T10:29:43.811Z"
+  },
+  {
+    "sapNo": "4213006",
+    "sapPo": "202608270000",
+    "bomFound": false,
+    "bomId": "",
+    "brand": "",
+    "brandSource": "",
+    "productionModels": [],
+    "lastChecked": "2026-09-28T10:29:43.814Z"
+  },
+  {
+    "sapNo": "4213046",
+    "sapPo": "",
+    "bomFound": false,
+    "bomId": "",
+    "brand": "",
+    "brandSource": "",
+    "productionModels": [],
+    "lastChecked": "2026-09-28T10:20:11.881Z"
+  },
+  {
+    "sapNo": "4213044",
+    "sapPo": "202608280003",
+    "bomFound": false,
+    "bomId": "",
+    "brand": "",
+    "brandSource": "",
+    "productionModels": [],
+    "lastChecked": "2026-09-28T10:29:43.820Z"
+  },
+  {
+    "sapNo": "4213061",
+    "sapPo": "202608280003",
+    "bomFound": false,
+    "bomId": "",
+    "brand": "",
+    "brandSource": "",
+    "productionModels": [],
+    "lastChecked": "2026-09-28T10:29:43.826Z"
+  },
+  {
+    "sapNo": "4000026",
+    "sapPo": "2001",
+    "bomFound": true,
+    "bomId": "4000026-1",
+    "brand": "Brand N",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:46:01.692Z"
+  },
+  {
+    "sapNo": "4000027",
+    "sapPo": "2001",
+    "bomFound": true,
+    "bomId": "4000027-1",
+    "brand": "Brand N",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:46:01.706Z"
+  },
+  {
+    "sapNo": "4000028",
+    "sapPo": "1011",
+    "bomFound": true,
+    "bomId": "4000028-1",
+    "brand": "Brand O",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:46:01.715Z"
+  },
+  {
+    "sapNo": "4000029",
+    "sapPo": "1011",
+    "bomFound": true,
+    "bomId": "4000029-1",
+    "brand": "Brand O",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:46:01.723Z"
+  },
+  {
+    "sapNo": "4000030",
+    "sapPo": "1011",
+    "bomFound": false,
+    "bomId": "",
+    "brand": "",
+    "brandSource": "",
+    "productionModels": [],
+    "lastChecked": "2026-09-28T14:46:01.726Z"
+  },
+  {
+    "sapNo": "4000031",
+    "sapPo": "1111",
+    "bomFound": true,
+    "bomId": "4000031-1",
+    "brand": "Brand P",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:46:01.731Z"
+  },
+  {
+    "sapNo": "4000032",
+    "sapPo": "1111",
+    "bomFound": true,
+    "bomId": "4000032-1",
+    "brand": "Brand P",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:46:01.733Z"
+  },
+  {
+    "sapNo": "4000033",
+    "sapPo": "1000",
+    "bomFound": true,
+    "bomId": "4000033-1",
+    "brand": "Brand Q",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:46:01.739Z"
+  },
+  {
+    "sapNo": "4000034",
+    "sapPo": "1000",
+    "bomFound": true,
+    "bomId": "4000034-1",
+    "brand": "Brand Q",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:46:01.748Z"
+  },
+  {
+    "sapNo": "4000035",
+    "sapPo": "1001",
+    "bomFound": true,
+    "bomId": "4000035-1",
+    "brand": "Brand R",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:46:01.751Z"
+  },
+  {
+    "sapNo": "4000036",
+    "sapPo": "1001",
+    "bomFound": true,
+    "bomId": "4000036-1",
+    "brand": "Brand R",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:46:01.755Z"
+  },
+  {
+    "sapNo": "4000037",
+    "sapPo": "1212",
+    "bomFound": true,
+    "bomId": "4000037-1",
+    "brand": "Brand S",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:46:01.764Z"
+  },
+  {
+    "sapNo": "4000038",
+    "sapPo": "1212",
+    "bomFound": true,
+    "bomId": "4000038-1",
+    "brand": "Brand S",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:46:01.767Z"
+  },
+  {
+    "sapNo": "4000039",
+    "sapPo": "1212",
+    "bomFound": true,
+    "bomId": "4000039-1",
+    "brand": "Brand S",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:46:01.783Z"
+  },
+  {
+    "sapNo": "4000040",
+    "sapPo": "1215",
+    "bomFound": false,
+    "bomId": "",
+    "brand": "",
+    "brandSource": "",
+    "productionModels": [],
+    "lastChecked": "2026-09-28T14:46:01.789Z"
+  },
+  {
+    "sapNo": "4000041",
+    "sapPo": "1215",
+    "bomFound": true,
+    "bomId": "4000041-1",
+    "brand": "Brand A",
+    "brandSource": "BOM",
+    "productionModels": [
+      "Inspection_Assembly",
+      "STK+CTN_CHANGE CODE",
+      "DIRECT"
+    ],
+    "lastChecked": "2026-09-28T14:46:01.803Z"
+  }
+]
